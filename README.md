@@ -6,6 +6,8 @@
   <a  href="https://github.com/20essentials/project-1376" target="_blank">&#8594;</a>
 </div>
 
+---
+
 Magic Portfolio is a simple, clean, beginner-friendly portfolio template. It supports an MDX-based content system for projects and blog posts, an about / CV page and a gallery.
 
 ## Getting started
