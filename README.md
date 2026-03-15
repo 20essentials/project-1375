@@ -8,7 +8,6 @@
 
 Magic Portfolio is a simple, clean, beginner-friendly portfolio template. It supports an MDX-based content system for projects and blog posts, an about / CV page and a gallery.
 
-
 ## Getting started
 
 **1. Clone the repository**
@@ -87,6 +86,3 @@ Docs available at: [docs.once-ui.com](https://docs.once-ui.com/docs/magic-portfo
 Distributed under the CC BY-NC 4.0 License.
 
 See `LICENSE.txt` for more information.
-
-## Deploy with Vercel
-
